@@ -49,7 +49,7 @@ namespace ceshi2
             }
             else
             {
-                Console.WriteLine(false);
+                Console.WriteLine("111111111111111111111");
             }
             
         }
