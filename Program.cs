@@ -50,6 +50,7 @@ namespace ceshi2
             else
             {
                 Console.WriteLine("111111111111111111111");
+                Console.WriteLine("111111111111111111111");
             }
             
         }
